@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 
 File changed
 
+=======
+giorgio solinas
+Andreas
+ny rad
+>>>>>>> c9d1cdeb7c4fed022dc842ae2a3defa181b91089
