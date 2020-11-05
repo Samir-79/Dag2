@@ -1,3 +1,6 @@
 giorgio solinas
 Andreas
-Johan Åström
+<<<<<<< HEAD
+=======
+ny rad
+>>>>>>> c9d1cdeb7c4fed022dc842ae2a3defa181b91089
