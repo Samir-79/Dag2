@@ -1,6 +1,15 @@
+<<<<<<< HEAD
+
+File changed
+
+=======
 giorgio solinas
 Andreas
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> 9b8059e099b005e03ce151e8a316fc1032d135b9
 ny rad
 >>>>>>> c9d1cdeb7c4fed022dc842ae2a3defa181b91089
+ny rad2
