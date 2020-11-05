@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 giorgio solinas
-=======
-Test
->>>>>>> b50f8832fc4c0671be0cbdef0d05dda96c840edf
